@@ -7,7 +7,7 @@
 
 <h3 align="left">A little bit about me:</h3>
 
-Hey, I’m Tushar,  a curious mind at the intersection of **cybersecurity**, **automation**, and futuristic tech like **Gen Ai** and **Sustainable Sulutions**.
+Hey, I’m Tushar,  a curious mind at the intersection of **cybersecurity**, **automation**, and futuristic tech like **Gen Ai** and **Sustainable Solutions**.
 Currently pursuing **Computer Engineering at GCOEARA, Pune**, I’ve:
 -  Earned a **Google Cybersecurity Certificate**
 -  Built open-source tools (IDS, vulnerability scanners, password managers)
@@ -45,13 +45,13 @@ From writing IDS systems in Python to exploring space-tech articles at midnight,
 ###  Open for Collaboration
 
 Got an idea? Want to build something cool together?  
-I'm always open to **collaborations**, **projects**, and **tech conversations**  whether it's for learning, building, or exploring new ideas.
+I'm always open to **collaborations**, **projects**, and **tech conversations**,  whether it's for learning, building, or exploring new ideas.
 
 -  Ideas are welcome  
 -  Contributions are welcome  
 -  Suggestions? Absolutely welcome
 
-> “Alone we can do so little, together we can do so much.” 
+>_“Alone we can do so little, together we can do so much.”_
 
 
 **Thanks for visiting my profile! Let's connect, collaborate, and create something awesome.** 🚀  
