@@ -13,7 +13,7 @@ Currently pursuing **Computer Engineering at GCOEARA, Pune**, I’ve:
 -  Built open-source tools (IDS, vulnerability scanners, password managers)
 -  Developed fullstack web apps
 -  Led hackathon teams and tech communities
-From writing IDS systems in Python to exploring space-tech articles at midnight,  I’m all about learning, building, and pushing boundaries.
+-  From writing IDS systems in Python to exploring space-tech articles at midnight,  I’m all about learning, building, and pushing boundaries.
 
 **Thanks for visiting my GitHub , let’s create something awesome together!** ✨
 
